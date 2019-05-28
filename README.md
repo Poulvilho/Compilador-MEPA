@@ -9,7 +9,7 @@ Trabalho para a disciplina de Compiladores no semestre 2019/1
 3 [Estruturação das Pastas](#estruturação-das-pastas)<br>
 3.1 [SRC](#src)<br>
 3.1.1 [Exemplo](#exemplo)<br>
-4 [Funcionamento](#Funcionamento)f
+4 [Funcionamento](#funcionamento)<br>
 
 # Alunos
 
