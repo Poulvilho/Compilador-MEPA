@@ -4,12 +4,12 @@ Trabalho para a disciplina de Compiladores no semestre 2019/1
 
 # Sumário:
 
-1 [Alunos](#-Alunos)<br>
-2 [Resumo](#-Resumo)<br>
-3 [Estruturação das Pastas](#-Estruturação-das-Pastas)<br>
-3.1 [SRC](#-SRC)<br>
-3.1.1 [Exemplo](#EXEMPLO)<br>
-4 [Funcionamento](#-Funcionamento)
+1 [Alunos](#alunos)<br>
+2 [Resumo](#resumo)<br>
+3 [Estruturação das Pastas](#estruturação-das-pastas)<br>
+3.1 [SRC](#src)<br>
+3.1.1 [Exemplo](#exemplo)<br>
+4 [Funcionamento](#Funcionamento)f
 
 # Alunos
 
