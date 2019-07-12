@@ -7,7 +7,7 @@ def analex (argv):
     context = []
 
     for i in aux:
-        if i in ['(', ',', ')', ';',
+        if i in ['(', ',', ')', ';', ".",
                  '=', '+', '-', '*', '/', '%' # operadores matemáticos
                 ]:
             context.append(' ')
